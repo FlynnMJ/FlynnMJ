@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @flynn.wang
+- 👀 I’m interested in coding
